@@ -76,7 +76,7 @@
 
 | 오늘의 질문 목록 | 홈 | 커뮤니티 글| |
 | --- | --- | --- | --- |
-| ![pawsitive_44](/exec/imgs/pawsitive_44.png) | ![pawsitive_45](/exec/imgs/pawsitive_45.png) | ![pawsitive_46](/exec/imgs/pawsitive_45.png) |  ![pawsitive_51](/exec/imgs/pawsitive_51.png)  |
+| ![pawsitive_44](/exec/imgs/pawsitive_44.png) | ![pawsitive_45](/exec/imgs/pawsitive_45.png) | ![pawsitive_46](/exec/imgs/pawsitive_46.png) |  ![pawsitive_51](/exec/imgs/pawsitive_51.png)  |
 | 해당일까지 받아본 오늘의 질문을 모아볼 수 있습니다 <br> <br>각각의 <오늘의 질문>을 클릭하면 해당 질문과 질문에 대한 답변 상세 조회 페이지로 이동합니다 | [홈] 화면에서 조회수 순으로 가장 인기있는 커뮤니티 게시물을 모아볼 수 있습니다 <br> <br><인기있는 게시물>을 클릭해 커뮤니티 글 상세 조회 페이지로 이동합니다 | 커뮤니티 게시글 상세 페이지에서 게시글 조회 후 [<] 버튼을 통해 다시 홈 화면으로 돌아갑니다 |  |
 
 ## 발자국
