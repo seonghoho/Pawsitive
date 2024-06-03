@@ -1,5 +1,48 @@
 # Pawsitive
 
+# 서비스 소개
+### 맞춤형 유기견 입양 지원 서비스 
+- 웹과 앱을 통해 유기견 보호소에게는 유기견을 빠르고 쉽게 공고를 등록할 수 있는 창구를,</br>
+- 입양 희망자에게는 맞춤형 유기견 추천 및 5단계의 입양 지원 서비스를, </br> 
+- 입양 후 함께 추억을 쌓을 수 있도록 커뮤니티 기능 및 나에게 쓰는 일기 기능을 제공합니다.
+
+# 개발 환경
+### FrontEnd
+- Node - npm 10.2.5
+- Library - React 18.2.0
+- Build tool - Vite 5.0.8
+- State management - Jotai 2.6.2
+- Language - TypeScript 5.2.2
+- HTTP client - axios 1.6.5
+- Style - Styled component 6.1.8
+
+### BacKEnd
+- Java 17 - Oracle OpenJDK 17.0.9
+- Framework - Spring Boot 3.2.1
+- ORM - JPA(Hibernate)
+- Dependency tool - gradle 8.5
+
+### Server
+- Ubuntu 20.04 LTS
+- NginX 1.18.0 (Ubuntu)
+- Docker 25.0.0
+- OpenVidu 2.29.0
+- AWS S3
+
+### Database
+- MySQL 8.0.34
+- Redis 7.2.4
+
+### UI/UX
+- Figma
+
+### IDE
+- Intellij IDEA 2023.2.5
+- WebStorm 2023.3.2
+
+# 화면 구성
+![화면구성](https://github.com/seonghoho/Pawsitive/assets/128336950/34ddf109-f051-4350-bbf0-8c4f6ab6f07c)
+
 # 시연 시나리오
 
 ## 1단계
@@ -84,4 +127,8 @@
 | --- | --- | --- | --- |
 | ![pawsitive_49](/exec/imgs/pawsitive_49.png) | ![pawsitive_47](/exec/imgs/pawsitive_47.png) | ![pawsitive_48](/exec/imgs/pawsitive_48.png) | ![pawsitive_50](/exec/imgs/pawsitive_50.png) |
 | - 커뮤니티 글을 작성할 수 있습니다<br />- 사진과 글 제목, 글 공개 여부, 카테고리, 내용, 기록할 위치 등을 입력하고 [완료] 버튼을 클릭해 글을 등록합니다<br />- 글을 등록하면 방금 작성한 글의 상세 페이지로 이동합니다 | - 커뮤니티 글 상세 페이지입니다 <br />- [<] 버튼을 눌러 커뮤니티 글을 모아볼 수 있습니다 | - [지도보기]를 클릭해서 작성한 글에 대해 등록한 위치를 볼 수 있습니다 | - 커뮤니티 글을 원하는 카테고리를 클릭해 카테고리별로 모아 볼 수 있습니다 |
+
+
+# 팀원 소개
+![팀원소개](https://github.com/seonghoho/Pawsitive/assets/128336950/0672b561-a895-4c72-8516-d5707d4292f9)
 
